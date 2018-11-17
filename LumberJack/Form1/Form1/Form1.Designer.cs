@@ -42,7 +42,7 @@
             // 
             button1.Cursor = System.Windows.Forms.Cursors.SizeNESW;
             button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            button1.Location = new System.Drawing.Point(134, 133);
+            button1.Location = new System.Drawing.Point(111, 64);
             button1.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             button1.Name = "button1";
             button1.Size = new System.Drawing.Size(271, 86);
@@ -65,7 +65,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(111, 199);
+            this.button3.Location = new System.Drawing.Point(111, 193);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(271, 86);
             this.button3.TabIndex = 2;
